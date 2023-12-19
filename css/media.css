@@ -1,0 +1,475 @@
+/*
+=============
+Extra_small 
+=============
+ */
+
+
+@media
+    (max-width:575.98px)
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_content h1
+{padding: 8% 0 0; font-size: 26px; text-align: center;}
+.my_content p
+{font-size: 10px; text-align: center;}
+.my_content a
+{padding: 1px 20px; font-size: 10px;}
+.my_indicators
+{top: 87%; right: 5%;}
+.my_indicators [data-bs-target]
+{width: 3%;}
+.my_button1 
+{margin: 78% 0 0;}
+.my_button2
+{margin: 78% 0% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+.about_content
+{text-align: center;}
+.about_content h2 
+{margin-top: 48px; font-size: 22px;}
+.backgcolor
+{padding: 8px 50px; border: 1px solid; border-radius: 0; font-size: 15px;}
+/* AboutUS_end */
+/* Recent_Work_start */
+.recent_img
+{}
+.recent_items_hover 
+{margin: -160px 0 0 0; height: 432px;}
+.recent_png 
+{margin-top: 181px; margin-bottom: 139px;}
+/* Recent_Work_end */
+/* Why_Choos_Nipro_start */
+.for_why_choose_border
+{text-align: center;}
+.for_why_choose_border i 
+{transform: none;}
+.for_why_choose_border h3
+{margin-top: 10px; display: block;}
+.why_choose_item p
+{margin: 14px; padding: 0;}
+/* Why_Choose_Niproendend */
+/* Who_Work_With_US_start */
+.who_border_wrap 
+{margin: 10px; height: 325px;}
+.Who_Work_wrap_items 
+{text-align: -webkit-center;}
+/* Who_Work_With_US_end */
+/* Best_Pricing_start */
+.Best_Pricing_border button 
+{margin: 40px 58px;}
+/* Best_Pricing_end */
+/* Nipro_Responsive_HTML_Template_start */
+.Nipro_Responsive_content 
+{padding: 4px 0;}
+.Nipro_Responsive_content h3 
+{font-size: 18px;}
+.Nipro_Responsive_content button 
+{margin: 0 0 0 10px; font-size: 13px;}
+/* Nipro_Responsive_HTML_Template_end */
+/* nipro_from_slider_start */
+.nipro_from_slider
+{margin-bottom: 350px;}
+.image_form
+{margin-left: 30px; width: 200px !important;}
+.from_content 
+{line-height: 24px;}
+.border_button 
+{margin: -328px 82px 0 !important; width: 626px; padding: 1px 0;}
+.form_indicators 
+{left: -10px;}
+.buttom_perv_l 
+{transform: translate(510px, 0) !important;}
+/* nipro_from_slider_end */
+/* Contact_US_start */
+.Contact_US_border input
+{font-size: 20px;}
+.input_3 
+{padding-right: 30px !important;}
+.input_4
+{padding-right: 30px !important;}
+/* Contact_US_end */
+/* footer_start */
+.Nipro_Agency
+{margin: 137px 0 0;}
+.Nipro_Agency_content p 
+{margin: 0 90px 50px;}
+.Nipro_Agency_menu 
+{margin: 0 56px;}
+.all_rights 
+{margin: 13px 25px 0;}
+.footers_menu_last 
+{margin: 23px 214px 0 21px;}
+.footers_menu_last ul li a 
+{padding: 4px;}
+/* footer_end */
+}
+
+/*
+=============
+small 
+=============
+ */
+
+@media
+    (min-width:576px) and (max-width: 767.98px) 
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_content h1
+{padding: 10% 0 0; font-size: 48px; text-align: center;}
+.my_content p
+{font-size: 12px; text-align: center;}
+.my_indicators
+{top: 92%; right: 75%;}
+.my_indicators [data-bs-target]
+{width: 3%;}
+.my_button1 
+{margin: 89% 0 0;}
+.my_button2
+{margin: 89% 72% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+.about_content h2 
+{margin-top: 50px;}
+/* AboutUS_end */
+/* RecentWork_start */
+.recent_items_hover 
+{margin: -284px 0 0 0; height: 556px;}
+.recent_png 
+{margin-top: 209px; margin-bottom: 235px;}
+/* RecentWork_end */
+/* Why_Choos_Nipro_start */
+.for_why_choose_border
+{text-align: center;}
+.for_why_choose_border i 
+{transform: none;}
+.for_why_choose_border h3
+{margin-top: 10px; display: block;}
+.why_choose_item p
+{margin: 20px; padding: 0 70px;}
+/* Why_Choose_Niproendend */
+/* Who_Work_With_US_start */
+.who_border_wrap 
+{margin: 10px; height: 325px;}
+.Who_Work_wrap_items 
+{text-align: -webkit-center;}
+/* Who_Work_With_US_end */
+/* Best_Pricing_start */
+.Best_Pricing_border button 
+{margin: 40px 168px;}
+/* Best_Pricing_end */
+/* Nipro_Responsive_HTML_Template_start */
+.Nipro_Responsive_content h3 
+{font-size: 20px;}
+.Nipro_Responsive_content button 
+{margin: 0 0 0 93px; font-size: 13px;}
+/* Nipro_Responsive_HTML_Template_end */
+/* nipro_from_slider_start */
+.image_form
+{margin-left: 30px; width: 200px !important;}
+.from_content 
+{line-height: 24px;}
+.border_button 
+{margin: -310px 220px 0 !important; width: 580px;}
+.form_indicators 
+{left: -5px;}
+.buttom_perv_l 
+{transform: translate(460px, 0) !important;}
+/* nipro_from_slider_end */
+/* Contact_US_start */
+.input_3 
+{padding-right: 30px !important;}
+.input_4
+{padding-right: 30px !important;}
+/* Contact_US_end */
+/* footer_start */
+.Nipro_Agency_content p 
+{margin: 0 90px 50px;}
+.Nipro_Agency_menu 
+{margin: 0 118px;}
+.all_rights 
+{margin: 13px 197px 0;}
+.footers_menu_last 
+{margin: -47px 0 0 465px;}
+.footers_menu_last ul li a 
+{padding: 4px;}
+/* footer_end */
+}
+
+/*
+============= 
+midiam 
+=============
+*/
+
+@media
+    (min-width:768px) and (max-width: 991.98px) 
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_content h1
+{padding: 10% 0 0;}
+.my_indicators
+{top: 94%;}
+.my_button1 
+{margin: 89% 0 0;}
+.my_button2
+{margin: 89% 72% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+.about_content h2 
+{margin-top: 50px;}
+/* AboutUS_end */
+/* RecentWork_start */
+.recent_items_hover 
+{margin: -478px 0 0 0; height: 750px;}
+.recent_png 
+{margin-top: 345px; margin-bottom: 288px;}
+/* RecentWork_end */
+/* Why_Choos_Nipro_start */
+.for_why_choose_border
+{text-align: center;}
+.for_why_choose_border i 
+{transform: none;}
+.for_why_choose_border h3
+{margin-top: 10px; display: block;}
+.why_choose_item p
+{margin: 20px; padding: 0 150px;}
+/* Why_Choose_Niproendend */
+/* Who_Work_With_US_start */
+.who_border_wrap 
+{margin: 10px; height: 325px;}
+.Who_Work_wrap_items 
+{text-align: -webkit-center;}
+/* Who_Work_With_US_end */
+/* Best_Pricing_start */
+.Best_Pricing_border p 
+{margin-top: 100px;}
+.Best_Pricing_border button 
+{margin: 50px 258px;}
+/* Best_Pricing_end */
+/* Nipro_Responsive_HTML_Template_start */
+.Nipro_Responsive_content button 
+{margin: 0 0 0 159px;}
+/* Nipro_Responsive_HTML_Template_end */
+/* nipro_from_slider_start */
+.image_form
+{margin-left: 30px; width: 200px !important;}
+.from_content 
+{line-height: 24px;}
+.border_button 
+{margin: -287px 420px 0 !important; width: 533px;}
+.form_indicators 
+{left: -5px;}
+.buttom_perv_l 
+{transform: translate(414px, 0) !important;}
+/* nipro_from_slider_end */
+/* Contact_US_start */
+.input_3 
+{padding-right: 30px !important;}
+.input_4
+{padding-right: 30px !important;}
+/* Contact_US_end */
+/* footer_start */
+.Nipro_Agency_content p 
+{margin: 0 180px 50px;}
+.Nipro_Agency_menu 
+{margin: 0 208px;}
+.all_rights 
+{margin: 13px 12px 0;}
+.footers_menu_last 
+{margin: -47px 0 0 465px;}
+.footers_menu_last ul li a 
+{padding: 4px;}
+/* footer_end */
+}
+
+/*
+=============
+larg 
+=============
+*/
+
+@media
+    (min-width:992px) and (max-width: 1199.98px) 
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_indicators 
+{right: 75%;}
+.my_indicators [data-bs-target] 
+{width: 3px;}
+.my_content h1 
+{font-size: 50px;}
+.my_content p
+{font-size: 15px;}
+.my_button1 
+{margin: 116% 0 0;}
+.my_button2
+{margin: 116% 72% 0;}
+/* banner1_end */
+/* Welcome_to_Nipro_start */
+.for_border_box h3 
+{margin: 50px 0 0;}
+.for_hr
+{margin: -178px 0 -46px 58px;}
+.all_items p 
+{margin: 62px 0 0 0; padding: 0 2px;}
+/* Welcome_to_Nipro_end */
+/* AboutUS_start */
+.about_content p 
+{margin: 12px 0 33px;}
+/* AboutUS_end */
+/* RecentWork_start */
+.recent_items_hover 
+{margin: -47px 0 0 0; height: 319px;}
+.recent_png 
+{margin-top: 150px; margin-bottom: 118px;}
+/* RecentWork_end */
+/* Who_Work_With_US_start */
+.who_border_wrap 
+{width: 215px;}
+.who_border_wrap 
+{margin: 3px; height: 276px;}
+.who_border_wrap ul 
+{transform: translate(0, 36px);}
+.who_ul_items 
+{height: 222px; transform: translate(0, -294px);}
+/* Who_Work_With_US_end */
+/* Best_Pricing_start */
+.all_items p 
+{margin: 36px 0 0 0; padding: 0 18px;}
+.Best_Pricing_border button 
+{margin: 40px 18px;}
+/* Best_Pricing_end */
+/* Nipro_Responsive_HTML_Template_start */
+.Nipro_Responsive_content button 
+{margin: 0 0 0 375px;}
+/* Nipro_Responsive_HTML_Template_end */
+/* nipro_from_slider_start */
+.from_logo
+{margin-left: 30px; width: 200px !important;}
+.from_content 
+{line-height: 24px;}
+.border_button 
+{margin: -159px 787px 0 !important; width: 278px;}
+.form_indicators 
+{left: 1px;}
+.buttom_perv_l 
+{transform: translate(164px, 0) !important;}
+/* nipro_from_slider_end */
+/* footer_start */
+.Nipro_Agency_content p 
+{margin: 0 300px 50px;}
+.Nipro_Agency_menu 
+{margin: 0 328px;}
+.all_rights 
+{margin: 13px 40px 0;}
+.footers_menu_last 
+{margin: -47px 0 0 604px;}
+/* footer_end */
+}
+
+/*
+=============
+Extra_larg 
+=============
+*/
+
+@media
+    (min-width:1200px) and (max-width: 1399.98px) 
+{
+/* header_start */
+/* header_end */
+
+/* We_Have_Talented_Team_start */
+.my_content h1 
+{font-size: 58px;}
+.my_button1 
+{margin: 112% 0 0;}
+.my_button2
+{margin: 112% 72% 0;}
+/* We_Have_Talented_Team_end */
+
+/* Welcome_to_Nipro_start */
+.for_border_box h3 
+{margin: 50px 0 0;}
+.for_hr
+{margin: -178px 0 -46px 80px;}
+.all_items p 
+{margin: 62px 0 0 0; padding: 0 25px;}
+/* Welcome_to_Nipro_end */
+/* About_Us_start */
+.about_img_log
+{width: 475px !important;}
+/* About_Us_end */
+/* RecentWork_start */
+.recent_items_hover 
+{margin: -112px 0 0 0; height: 384px;}
+.recent_png 
+{margin-bottom: 133px;}
+/* RecentWork_end */
+/* Who_Work_With_US_start */
+.who_border_wrap 
+{margin: 6px;}
+.who_border_wrap ul 
+{transform: translate(0, 36px);}
+/* Who_Work_With_US_end */
+/* Best_Pricing_start */
+.Best_Pricing_border button 
+{margin: 40px 41px;}
+/* Best_Pricing_end */
+/* Nipro_Responsive_HTML_Template_start */
+.Nipro_Responsive_content button 
+{margin: 0 0 0 532px;}
+/* Nipro_Responsive_HTML_Template_end */
+/* nipro_from_slider_start */
+.border_button 
+{margin: -174px 85% 0 !important;}
+/* nipro_from_slider_end */
+/* footer_start */
+.Nipro_Agency_content p 
+{margin: 0 390px 50px;}
+.Nipro_Agency_menu 
+{margin: 0 418px;}
+.all_rights 
+{margin: 13px 40px 0;}
+.footers_menu_last 
+{margin: -47px 0 0 760px;}
+/* footer_end */
+
+}
+
+/*
+=============
+Extra_Extra_larg 
+=============
+*/
+
+@media
+    (min-width:1400px) 
+{
+/* banner_start */
+
+/* banner_end */
+}
